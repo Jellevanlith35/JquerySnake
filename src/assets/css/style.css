@@ -1,0 +1,25 @@
+body {
+	background-color: #F2F2F2;
+}
+
+#wrapper {
+	width:100%;
+	height:auto;
+	margin:auto auto;
+}
+
+#wrapper .game{
+	width:50%;
+	height:500px;
+	margin:auto auto;
+	background-color: white;
+	box-shadow: 0 0 40px #828383;
+}
+
+#wrapper .game .snake{
+	width:10px;
+	height:10px;
+	float:left;
+	background-color: red;
+}
+
