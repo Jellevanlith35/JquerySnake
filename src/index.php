@@ -7,6 +7,8 @@
 <body>
 <div id="wrapper">
 	<div class="game">
+		<div class="food">
+		</div>
 		<div class="snake">
 		</div>
 	</div>
